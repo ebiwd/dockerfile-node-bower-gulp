@@ -1,4 +1,4 @@
-FROM node:8 
+FROM node:10
 
 LABEL maintainer www-dev@ebi.ac.uk
 
